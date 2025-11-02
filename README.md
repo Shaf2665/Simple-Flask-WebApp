@@ -12,8 +12,8 @@ A simple Flask web application that demonstrates the basics of creating a web se
 
 ## Installation
 - Clone the repository:
-`git clone https://github.com/Shaf2665/Simple-Flask-WebApp.git`
-`cd Simple-Flask-WebApp`
+- `git clone https://github.com/Shaf2665/Simple-Flask-WebApp.git`
+- `cd Simple-Flask-WebApp`
 - Install dependencies:
 `pip install flask`
 ## Usage

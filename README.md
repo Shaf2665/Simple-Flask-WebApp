@@ -6,16 +6,16 @@ Flask
 
 ## How to setup:
 - You need to install flask via the following command
-- `pip install flask --break-system-packages`
+  `pip install flask --break-system-packages`
 
 ## How to run:
 - Create a file named app.py
-- `nano app.py`
+  `nano app.py`
 - Copy the contents and paste it
 - Install Flask
-- `pip install flask --break-system-packages`
+  `pip install flask --break-system-packages`
 - Run the application
-- `python3 app.py`
+  `python3 app.py`
 - Access the application
 - Open browser: http://localhost:5000
 - Or if from outside container: http://YOUR_CONTAINER_IP:5000

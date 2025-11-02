@@ -31,10 +31,10 @@ A simple Flask web application that demonstrates the basics of creating a web se
   `docker run -p 5000:5000 simple-flask-webapp`
 
 ## Project Structure
-Simple-Flask-WebApp/
-├── app.py
-├── requirements.txt
-└── README.md
+- Simple-Flask-WebApp/
+- ├── app.py
+- ├── requirements.txt
+- └── README.md
 
 ## Author
 Shafiq - GitHub
